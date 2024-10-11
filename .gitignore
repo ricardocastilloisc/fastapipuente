@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+dist/
+build/
+
+# Entorno virtual
+venv/
+env/
+.env
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de caché
+*.log
+*.pot
+*.pyc
+*.pdb
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+
